@@ -1,5 +1,4 @@
-# Simple Gym Website — Practice Project
-
+# Simple Gym Website
 This is my first project built with plain HTML and CSS. It's a simple gym website template created for practice and to help understand the basics of web layout and styling. The project includes images and stylesheet(s) to make the page look presentable.
 
 Here's the project output / screenshot:
